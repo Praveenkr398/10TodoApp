@@ -23,6 +23,8 @@ This **To-Do App** is built using **React.js**, offering a clean and user-friend
 
 ![image](https://github.com/user-attachments/assets/73250bc8-f2a3-4101-9be9-7eef1844622f)
 
+Category:- "Mini Project, React, Hook, CSS"
+
 
 ## 🔗 Live Demo & Repository
 🌐 **Live Demo:** [To-Do App](https://reactitodoapp.netlify.app/)  
